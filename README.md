@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Argo and I'm a fan of coding.</h2>
+<h2 align="center">¡Hola 👋! Soy Argo 🌳</h2>
 
 ###
 
@@ -49,6 +49,9 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/alessebostue/alessebostue/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
